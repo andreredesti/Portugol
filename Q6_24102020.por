@@ -1,6 +1,6 @@
 programa
 {
-	
+	//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	real peso = 0.0, altura = 0.0 
 	
 	funcao real calcular_imc (real peso, real altura)
