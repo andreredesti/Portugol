@@ -1,6 +1,7 @@
 programa "Inclusão de Biblioteca - Calendario"
 		//Fornece hora, minuto e segundos atualizados
 		//Utiliza biblioteca
+//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 {
 	inclua biblioteca Calendario --> Cal
 	funcao inicio()
