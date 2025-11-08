@@ -1,6 +1,6 @@
 programa "Taxa de natalidade"
 {
-	
+	//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	funcao inicio()
 	{
 		
