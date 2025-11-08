@@ -1,5 +1,6 @@
-programa "Cálculo do Índice de Turnover"
+programa 
 {
+//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	//O cálculo desse indice: turnover = ((Admitidos + demitidos)/2)x100)/totalColaboradores
 	// Quantidade de funcionários (admitidos + quant demitidos)/2; o (resultado X 100)/totalColaboradores
 	// Esse índice sempre dará um número inteiro (a variável turnover deve ser do tipo inteiro ou real)
