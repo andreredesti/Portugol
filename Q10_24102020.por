@@ -1,5 +1,7 @@
 programa
 {
+//Escrito por André Francisco do Nascimento, Recife 23/09/2020
+
 	// Funçao vetor 10 números
 	// O programa ler 10 números entre 0 e 20
 	// A saída fornece o maior e o menor número digitado pelo usuário
