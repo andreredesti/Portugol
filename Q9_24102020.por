@@ -1,5 +1,6 @@
 programa
 {
+//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	//As funções podem ser utilizadas em outros pontos no código.
 	real  watts = 0.0
 	inteiro horas , dias 
