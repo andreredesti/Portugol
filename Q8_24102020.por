@@ -1,6 +1,6 @@
 programa
 {
-
+//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	// Funçao calculara consumo em watts
 	// Calculo do consumo mensal
 	// (potencia do equipamento (w) * horas utilizads * dias de uso)/ 1000 
