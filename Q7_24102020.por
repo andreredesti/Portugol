@@ -1,5 +1,6 @@
 programa
 {
+//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	// Funçao classificar nota
 	// media >= 7, Aprovado, media >= 3 e media <7, recuperação, media <3, reprovado
 	real nota1 = 0.0, nota2 = 0.0, media = 0.0 
