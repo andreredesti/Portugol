@@ -1,6 +1,6 @@
 programa "tabuada para"
 {
-	
+	//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	funcao inicio()
 	{
 		inteiro  n,contador=1
