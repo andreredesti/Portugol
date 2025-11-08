@@ -1,6 +1,6 @@
 programa
 {
-
+//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	//Algoritmo "Exemplo 1"
 
 	real = n1, n2, soma
