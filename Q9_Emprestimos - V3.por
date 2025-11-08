@@ -1,6 +1,6 @@
 programa
 {
-	
+	//Escrito por André Francisco do Nascimento, Recife 23/09/2020
 	funcao inicio()
 	{
 		cadeia nome, banco
